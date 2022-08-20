@@ -1,0 +1,16 @@
+<svg id="root"> 
+  <image href="background.png"/>
+  <image href="clock2.png"/>
+  <rect id ="timePos" width = "163" height = "40"/>
+  <rect id ="datePos" width = "162" height = "42"/>
+  <text id="myLabel" width = "163" height = "40" />
+  <text id ="date" width = "163" height = "40"/>
+  <text id ='steps10k' width = "20" height = "40"/>
+  <text id ='steps1k' width = "20" height = "40"/>
+  <text id ='steps100' width = "20" height = "40"/>
+  <text id ='steps10' width = "20" height = "40"/>
+  <text id ='steps1' width = "20" height = "40"/>
+  <g id = 'line' pointer-events="visible" transform="translate(95,100)">
+    <rect x ="$" y="-70" width ="4" height="70" fill="ba6600" />
+  </g>
+</svg>

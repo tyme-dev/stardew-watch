@@ -1,0 +1,73 @@
+.background {
+  viewport-fill: red;
+}
+
+#myLabel {
+  font-size: 50;
+  font-family: Tungsten-Medium;
+  text-length: 30;
+  x: 120;
+  y: 178;
+  fill: #800000;
+}
+#timePos {
+  fill: #e7a160;
+  x: 112;
+  y: 142;
+}
+#datePos {
+  fill: #e7a160;
+  x: 113;
+  y: 25;
+}
+#date {
+  font-size: 45;
+  font-family: Tungsten-Medium;
+  text-length: 90;
+  fill: #800000;
+  x: 115;
+  y: 60;
+}
+#steps1 {
+  font-size: 45;
+  font-family: Tungsten-Medium;
+  text-length: 1;
+  fill: #800000;
+  x:250;
+  y:280;
+}
+#steps10 {
+  font-size: 45;
+  font-family: Tungsten-Medium;
+  text-length: 1;
+  fill: #800000;
+  x:225;
+  y:280;
+}
+#steps100 {
+  font-size: 45;
+  font-family: Tungsten-Medium;
+  text-length: 1;
+  fill: #800000;
+  x:200;
+  y:280;
+}
+#steps1k {
+  font-size: 45;
+  font-family: Tungsten-Medium;
+  text-length: 1;
+  fill: #800000;
+  x:175;
+  y:280;
+}
+#steps10k {
+  font-size: 45;
+  font-family: Tungsten-Medium;
+  text-length: 1;
+  fill: #800000;
+  x:151;
+  y:280;
+}
+#line{
+  fill: brown;
+}
